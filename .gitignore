@@ -32,3 +32,6 @@ go.work.sum
 # .vscode/
 
 k8s-config-validator*
+k8s-config-validator
+k8s-config-validator.exe
+bin/
