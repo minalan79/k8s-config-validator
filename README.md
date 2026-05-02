@@ -113,4 +113,4 @@ The tool exits with code `1` if any validation failures are found.
 
 ## License
 
-MIT
+Apache-2.0
